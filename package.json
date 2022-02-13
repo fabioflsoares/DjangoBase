@@ -24,7 +24,7 @@
     "@angular/platform-server": "7.2.2",
     "@angular/router": "7.2.2",
     "@ng-bootstrap/ng-bootstrap": "4.0.2",
-    "ajv": "6.7.0",
+    "ajv": "6.12.3",
     "ajv-keywords": "3.3.0",
     "bootstrap": "^4.4.1",
     "chart.js": "2.7.3",
